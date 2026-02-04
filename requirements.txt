@@ -1,0 +1,15 @@
+# Core analysis stack
+numpy>=1.24
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.7
+seaborn>=0.13
+
+# Machine learning & autodiff
+scikit-learn>=1.3
+autograd>=1.6
+
+# Probabilistic programming (used in NumPyro sections)
+jax>=0.4.23
+jaxlib>=0.4.23
+numpyro>=0.14

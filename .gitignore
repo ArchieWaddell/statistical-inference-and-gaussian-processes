@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+CCPP/
+combined+cycle+power+plant.zip
